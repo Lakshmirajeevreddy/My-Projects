@@ -1,7 +1,7 @@
 # Sentiment Analysis on Twitter data 
 
 This project was a competition hosted by Kaggle : https://inclass.kaggle.com/c/epfml-text/
-I had at our disposal two sample files of negative and positive labels both containing 100000 tweet.
+I had two sample files of negative and positive labels both containing 100000 tweet.
 Also, I had a complete dataset of 2500000 tweets (1250000 for each label)
 The dataset has been labeled by the presence of  ":)" for positive tweets and ":(" for negative tweets 
 you can download the dataset on https://inclass.kaggle.com/c/epfml-text/data
